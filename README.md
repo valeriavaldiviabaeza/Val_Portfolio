@@ -5,12 +5,12 @@ Database Portfolio
 lookup tables and pivot tables](https://www.example.com)
 
 
-• On Worksheet1.
-a. In cell A1, type: Northwest Stationery
-b. Merge and Center cells A1:M4
-c. Bold the text
-d. Align the text to the center of the merged cell
-e. Apply a fill colour (of your choice) to that cell
+• On Worksheet1:
+a) In cell A1, type: Northwest Stationery
+b) Merge and Center cells A1:M4
+c) Bold the text
+d) Align the text to the center of the merged cell
+e) Apply a fill colour (of your choice) to that cell
 
 • On Worksheet2. Under Subtotal, use an appropriate function to total sales from all
 months for each customer from Worksheet1. 
