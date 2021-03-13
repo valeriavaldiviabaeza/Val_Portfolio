@@ -35,7 +35,6 @@ County, Eircode.
 • On Worksheet4, sensitive customer data must be appropriately protected to ensure
 that addresses are not erroneously altered/deleted. Protect the worksheet cell range
 A3:H12 so that data cannot be altered. 
-
 ![](https://github.com/valeriavaldiviabaeza/Val_Portfolio/blob/main/Images/Shipping%20labels.PNG)
 
 • On Worksheet5, create a Pivot Table and/or Pivot Chart from the entered data.
