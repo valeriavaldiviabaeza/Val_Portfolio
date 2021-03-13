@@ -51,80 +51,55 @@ lookup tables and pivot tables](https://docs.google.com/spreadsheets/d/1eBbATVEA
 
 Dept. Code / Dept. Name: Using the Text and Search / Reference functions, complete the Department Code and Department Name. Use the Generic Department Code to get the key to the Department Table (1 point)
 
-
 • SERVICE TIME: Calculate the Service Time as of Today (2 decimal places) (0.5 points)
-
 
 • INCREASE PERCENTAGE: Using the search or query function, complete the increased percentage according to Department (0.5 pts)
 
-
 • Award 1 (1 Pto) : If the position is Accounting Assistant (“AC”) or Design Assistant (“AD”)
-
 
 Then;
 
-
 • Award 1 = 5% of the General Average Revenue decreased by 13.25%.
-
 
 Opposite case;
 
-
 • Award 1 = Income of each official increased by 20.5%
-
 
 • Award 2 (1, 0 Pts)
 
-
 • If the Income is less than the General Average of Income of the Employees of the Administration Department
-
 
 Then
 
-
 • Award 2 = Income of each official increased by the percentage of increase according to Department.
-
 
 Opposite case
 
-
 • Award 2 = General Average of Prize 1 of the Accounting workers
 
-
 • Award 3 (1, 0 Pts)
-
 
 • If the official started working before 2010 and belongs to the Accounting Department
 
 Then
 
-
 • Award 3 = General Average of Prize 1 of the female workers (sex: 2)
-
 
 Opposite case
 
-
 • Award 3 = Average between award 2 and award 1 for each worker.
-
 
 • Decrease the result obtained in the Income Percentage according to Department
 
-
 • DYNAMIC TABLE: In the Pivot Table Sheet, using the Official Database (which is already named), perform the following calculations:
-
 
 • Calculate the following values by Department and sex:
 
-
 • Total Workers
-
 
 • Average Rents
 
-
 • Sum of Rents
-
 
 • It should only include the Administration and Design Departments.
 
