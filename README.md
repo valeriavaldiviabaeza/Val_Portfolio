@@ -37,3 +37,6 @@ that addresses are not erroneously altered/deleted. Protect the worksheet cell r
 A3:H12 so that data cannot be altered. 
 
 • On Worksheet5, create a Pivot Table and/or Pivot Chart from the entered data.
+
+
+
