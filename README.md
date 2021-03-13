@@ -36,12 +36,12 @@ County, Eircode.
 that addresses are not erroneously altered/deleted. Protect the worksheet cell range
 A3:H12 so that data cannot be altered. 
 
-![](/Images/Shipping%20labels.PNG)
+![](/Shipping%20labels.PNG)
 
 • On Worksheet5, create a Pivot Table and/or Pivot Chart from the entered data.
 
-![](Images/Table.PNG)
+![](/Table.PNG)
 
 
-![](/Images/Pivot.PNG)
+![](/Pivot.PNG)
 
