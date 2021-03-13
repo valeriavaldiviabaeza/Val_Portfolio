@@ -40,8 +40,7 @@ A3:H12 so that data cannot be altered.
 
 • On Worksheet5, create a Pivot Table and/or Pivot Chart from the entered data.
 
-![](/Table.PNG)
+![](https://github.com/valeriavaldiviabaeza/Val_Portfolio/blob/main/Images/Table.PNG)
 
-
-![](/Pivot.PNG)
+![](https://github.com/valeriavaldiviabaeza/Val_Portfolio/blob/main/Images/Pivot.PNG)
 
