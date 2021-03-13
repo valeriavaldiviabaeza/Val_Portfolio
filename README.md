@@ -37,13 +37,13 @@ that addresses are not erroneously altered/deleted. Protect the worksheet cell r
 A3:H12 so that data cannot be altered. 
 
 
-![](https://github.com/valeriavaldiviabaeza/Val_Portfolio/blob/main/Images/Shipping%20labels.PNG)
+![](/Images/Shipping%20labels.PNG)
 
 
 • On Worksheet5, create a Pivot Table and/or Pivot Chart from the entered data.
 
-![](https://github.com/valeriavaldiviabaeza/Val_Portfolio/blob/main/Images/Table.PNG)
+![](/Images/Table.PNG)
 
 
-![](https://github.com/valeriavaldiviabaeza/Val_Portfolio/blob/main/Images/Pivot.PNG)
+![](/Images/Pivot.PNG)
 
