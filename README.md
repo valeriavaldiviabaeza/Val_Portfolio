@@ -2,7 +2,7 @@
 Database Portfolio
 
 [Project 1: Excel document using techniques such as formatting data, formulas/functions, validation, protection,
-lookup tables and pivot tables](https://www.example.com)
+lookup tables and pivot tables](https://docs.google.com/spreadsheets/d/1UG-7avP7cXOY2ypmVMntaw-ipCC5fQLU/edit#gid=473142819)
 
 
 • On Worksheet1:
