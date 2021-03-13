@@ -1,7 +1,7 @@
 # Val_Portfolio
 Database Portfolio
 
-[Project 1: Excel document using techniques such as formatting data, formulas/functions, validation, protection,
+[Project 1: Excel document using techniques such as formatting data, formulas, functions, validation, protection,
 lookup tables and pivot tables](https://drive.google.com/file/d/1UG-7avP7cXOY2ypmVMntaw-ipCC5fQLU/view?usp=sharing)
 
 
