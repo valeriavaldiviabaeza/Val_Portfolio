@@ -43,3 +43,7 @@ A3:H12 so that data cannot be altered.
 
 ![](https://github.com/valeriavaldiviabaeza/Val_Portfolio/blob/main/Images/Pivot.PNG)
 
+
+[Project 2: Excel document using techniques such as formatting data, formulas, functions, validation, protection,
+lookup tables and pivot tables](https://docs.google.com/spreadsheets/d/1eBbATVEAaqtyMWbYv44O-ziWuUgrFE7X/edit#gid=775999647)
+
