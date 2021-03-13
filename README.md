@@ -1,7 +1,8 @@
 # Val_Portfolio
 Database Portfolio
-Project 1: Excel document using techniques such as formatting data, formulas/functions, validation, protection,
-lookup tables and pivot tables. 
+
+[Project 1: Excel document using techniques such as formatting data, formulas/functions, validation, protection,
+lookup tables and pivot tables](https://www.example.com)
 
 
 • On Worksheet1.
@@ -24,8 +25,7 @@ from the lookup table on Worksheet3.
 calculated by Subtotal – Customer Loyalty Discount.
 
 • On Worksheet2, indicate whether the customer is eligible for a Corporate Gift using an
-appropriate IF function.
-See Worksheet3 - All customers earning a Customer Loyalty Discount of €200 or
+appropriate IF function. See Worksheet3 - All customers earning a Customer Loyalty Discount of €200 or
 greater, are eligible for a Corporate Gift (cell B12).
 
 • On Worksheet4, use an appropriate function to populate cells H3:H12 with the
